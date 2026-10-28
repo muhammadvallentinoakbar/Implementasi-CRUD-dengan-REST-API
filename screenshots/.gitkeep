@@ -1,0 +1,7 @@
+# Folder screenshots
+
+Simpan screenshot aplikasi di sini dengan nama file berikut:
+- `list.png` — halaman daftar user
+- `form.png` — halaman form tambah/edit user
+- `success.png` — contoh operasi berhasil (SnackBar hijau)
+- `error.png` — contoh kondisi error (tanpa internet / server error)
