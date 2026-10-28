@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tugas Praktikum Mobile Programming
 ## Implementasi CRUD dengan REST API (reqres.in)
 
@@ -109,3 +110,6 @@ reqres.in adalah **mock API** — semua operasi POST/PUT/DELETE mengembalikan re
 | `http` | ^1.2.0 | HTTP client untuk request ke reqres.in |
 | `flutter` | SDK | Framework utama |
 | `cupertino_icons` | ^1.0.8 | Ikon tambahan |
+=======
+# Implementasi-CRUD-dengan-REST-API
+>>>>>>> 7712e79b6960922f3b318093294f7304235bdefb
